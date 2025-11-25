@@ -5,7 +5,7 @@ build-backend="setuptools.build_meta"
 
 [project]
 name = "jingle-shells"
-version = "0.1.1"
+version = "0.1.2"
 description = "A singing Christmas Tree in your terminal 🎄"
 readme = "README.md"
 requires-python = ">=3.12"
@@ -21,3 +21,18 @@ jingle-shells="jingle_shells.main:main"
 
 [tool.setuptools.package-data]
 jingle_shells=["res/*.mp3"]
+
+
+
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.7",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "License :: OSI Approved :: Apache Software License", # Khai báo license
+    "Operating System :: OS Independent",
+    "Topic :: Terminals"
+]
