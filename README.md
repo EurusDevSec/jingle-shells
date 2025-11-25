@@ -9,5 +9,6 @@ Built with Python & Pygame
 pip install jingle-shells
 ```
 
-#Usage
+# Usage
+
 jingle-shells
