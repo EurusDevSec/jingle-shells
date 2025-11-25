@@ -5,7 +5,7 @@ build-backend="setuptools.build_meta"
 
 [project]
 name = "jingle-shells"
-version = "0.1.0"
+version = "0.1.1"
 description = "A singing Christmas Tree in your terminal 🎄"
 readme = "README.md"
 requires-python = ">=3.12"
