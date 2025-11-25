@@ -6,7 +6,7 @@
 
 **A singing Christmas Tree in your terminal.** Built with Python & Pygame. Perfect for bringing holiday spirit to your dev environment.
 
-![Demo](https://github-production-user-asset-6210df.s3.amazonaws.com/129585402/518720585-ea062e80-e04e-433b-a638-6db7149bd88c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20251125%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20251125T152711Z&X-Amz-Expires=300&X-Amz-Signature=b8ad0591130d7ff521b4f15c7885170c68a79a185a5d2dcc41b15ab43827862f&X-Amz-SignedHeaders=host)
+![Demo](https://private-user-images.githubusercontent.com/129585402/518720585-ea062e80-e04e-433b-a638-6db7149bd88c.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NjQwODUyNjIsIm5iZiI6MTc2NDA4NDk2MiwicGF0aCI6Ii8xMjk1ODU0MDIvNTE4NzIwNTg1LWVhMDYyZTgwLWUwNGUtNDMzYi1hNjM4LTZkYjcxNDliZDg4Yy5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUxMTI1JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MTEyNVQxNTM2MDJaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT01NDM5OWM5MWIyNjc0OWEyZTZkYjQ1MmMzMTU5YzhlOGU4ZjEzOTk1ZWY1NGE0ZWQyZGFmZGZlNDcwM2Y4MTI2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.oQP8WHApHEolWl27lczYLUWZSWXxJ-sNy3U7zgTCNkU)
 
 ## ✨ Features
 
