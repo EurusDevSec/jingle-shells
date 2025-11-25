@@ -13,7 +13,7 @@ dependencies = [
     "pygame>=2.6.1",
 ]
 authors = [
-    {name = "EurusDevSec", email = "zeno11275@gmail.com"}
+    {name = "EurusDevSec", email = "129585402+EurusDevSec@users.noreply.github.com"}
 ]
 
 [project.scripts]
